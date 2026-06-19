@@ -115,7 +115,7 @@ Siga os passos abaixo para executar a aplicação na sua máquina local:
 ## 🎨 Galeria Visua
 
 <p align="center">
-  <img src="https://www.deviantart.com/arilee25/art/LINE-Official-Stickers-Kuromi-Cute-Gif-1004018065" width="45%" />
+  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=763782418026978776" height="234" width="236" frameborder="0" scrolling="no" ></iframe>" width="45%" />
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4am8xcmphOHg2ZjEwbnFzZXpsM3pldGZ5bzNmbTlsdTRqNHh3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jO6X7zU67Hul0Xb8mX/giphy.gif" width="45%" />
 </p>
