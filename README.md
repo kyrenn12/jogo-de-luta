@@ -13,14 +13,14 @@
 </p>
 
 ```ansi
-[45m[37m ⚡ SEJA BEM-VINDO(A) AO REPOSITÓRIO OFICIAL DO PROJETO ⚡ [0m
+ SEJA BEM-VINDO(A) AO REPOSITÓRIO OFICIAL DO PROJETO 
 ```
 
 ---
 
 ## 🔮 Sobre o Projeto
 
-Este é um projeto web desenvolvido em **Python** utilizando o framework **Flask**. Ele possui uma estrutura clássica com rotas dinâmicas, estilização personalizada e uma interface totalmente trabalhada na estética roxa, unindo o charme sombrio da **Kuromi** e a magia Electro do universo de **Genshin Impact**.
+Este é um projeto web desenvolvido em **Python** utilizando o framework **Flask**. Ele possui uma estrutura clássica com rotas dinâmicas, estilização personalizada e uma interface totalmente trabalhada na estética roxa.
 
 > 🔮 *“Menu personalizado, rotas limpas e um toque estético roxo impecável.”*
 
@@ -90,10 +90,10 @@ Siga os passos abaixo para executar a aplicação na sua máquina local:
 
 ---
 
-## 👑 Sobre o Criador
+## 👑 Sobre a Criadora
 
 ```ansi
-[45m[37m ⭐ CONHEÇA O DESENVOLVEDOR POR TRÁS DO PROJETO ⭐ [0m
+⭐ CONHEÇA O DESENVOLVEDOR POR TRÁS DO PROJETO ⭐ 
 ```
 
 <table align="center">
@@ -103,8 +103,8 @@ Siga os passos abaixo para executar a aplicação na sua máquina local:
       <sub><b>kyrenn12</b></sub>
     </td>
     <td>
-      👋 Olá! Eu sou o criador do <b>kyrenn12</b>.<br><br>
-      Sou um desenvolvedor apaixonado por tecnologia, design focado na estética roxa (Purple Design) e cultura pop/games como <b>Genshin Impact</b> e o universo <b>Sanrio</b>.<br><br>
+      👋 Olá! Eu sou o criadora do <b>kyrenn12</b>.<br><br>
+      Sou uma estudante de tecnologia, design focado na estética roxa (Purple Design) 
       🚀 Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades em Python e desenvolvimento web!
     </td>
   </tr>
@@ -112,12 +112,10 @@ Siga os passos abaixo para executar a aplicação na sua máquina local:
 
 ---
 
-## 🎨 Galeria Visual
-
-Aqui você pode adicionar mais GIFs combinados das suas coisas favoritas:
+## 🎨 Galeria Visua
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVtc2g1ZzJrdDVpZWdzNmNscW9mYnRpMWV6MWl2NWptNjd4czYwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8gV481EshGscwFclP/giphy.gif" width="45%" />
+  <img src="https://www.deviantart.com/arilee25/art/LINE-Official-Stickers-Kuromi-Cute-Gif-1004018065" width="45%" />
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4am8xcmphOHg2ZjEwbnFzZXpsM3pldGZ5bzNmbTlsdTRqNHh3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jO6X7zU67Hul0Xb8mX/giphy.gif" width="45%" />
 </p>
