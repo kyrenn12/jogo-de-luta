@@ -1,67 +1,81 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #4B0082, #8A2BE2, #9400D3); color: white; padding: 40px; border-radius: 15px;">
 
-![Pixel Art Fighter Banner](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Banner Pixel Roxo](https://via.placeholder.com/800x200/4B0082/FFFFFF?text=JOGO+DE+LUTA+PIXEL+ART)
 
 # 🎮 **JOGO DE LUTA**
 
-**Um jogo de luta 2D em Pixel Art desenvolvido em HTML, CSS e JavaScript**
+**Projeto Escolar - Pixel Art Fighter**
 
-![Purple Pixel Divider](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+![Roxo Divider](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
 </div>
+
+<br>
+
+<div style="background-color: #2E0854; color: #E0BBFF; padding: 25px; border-radius: 12px; border: 3px solid #BA55D3;">
 
 ## ✨ Sobre o Projeto
 
-**Jogo de Luta** é um projeto escolar de um jogo de luta estilo arcade em **pixel art**, com mecânicas de combate, personagens pixelados, cenários retro e efeitos visuais neon roxos.
+Um jogo de luta 2D em **pixel art** com visual **roxo neon**, desenvolvido como projeto escolar usando apenas **HTML, CSS e JavaScript**.
 
-Desenvolvido 100% com **HTML5 + CSS3 + JavaScript Vanilla**, com estética **retro pixel art** e tema **roxo neon**.
-
----
-
-## 🎥 GIFs em Pixel Art - Gameplay e Animações
-
-<div align="center">
-
-**Combate Pixel Art**  
-![Pixel Fighting](https://media.giphy.com/media/g04PjsDH1V9eApHVBR/giphy.gif)
-
-**Personagem Lutando (Pixel)**  
-![Pixel Fighter Attack](https://media.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif)
-
-**Luta Clássica Pixel**  
-![8-Bit Fighter](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-**Ataque Especial Pixel Art**  
-![Pixel Punch Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-**Explosão de Energia Roxa**  
-![Pixel Energy Blast](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+Estética retro gamer com tema **totalmente roxo**.
 
 </div>
 
----
+<br>
+
+<div align="center" style="background-color: #4B0082; color: white; padding: 20px; border-radius: 12px;">
+
+## 🎥 **GIFs do Jogo (Pixel Art)**
+
+### Luta em Ação
+**[INSIRA GIF 1 - COMBATE AQUI]**
+
+### Ataque Especial Roxo
+**[INSIRA GIF 2 - ATAQUE ESPECIAL AQUI]**
+
+### Personagem Pulando / Movimentação
+**[INSIRA GIF 3 - MOVIMENTAÇÃO AQUI]**
+
+### Tela de Menu / Seleção de Personagem
+**[INSIRA GIF 4 - MENU AQUI]**
+
+### Explosão / Efeito Especial
+**[INSIRA GIF 5 - EXPLOSÃO ROXA AQUI]**
+
+</div>
+
+<br>
+
+<div style="background-color: #2E0854; color: #E0BBFF; padding: 25px; border-radius: 12px; border: 3px solid #BA55D3;">
 
 ## 🚀 Funcionalidades
 
-- ✅ Combate em tempo real com animações pixel art
-- ✅ Personagens e sprites em pixel art
-- ✅ Barra de vida e energia com estilo retro
-- ✅ Controles via teclado (setas + Z, X, C)
-- ✅ Animações frame-by-frame (sprite sheets)
-- ✅ Design **roxo neon** com glow effects
-- ✅ Telas: Menu, Seleção de Personagem, Arena e Game Over
-- ✅ Totalmente responsivo
+- Combate em tempo real com sprites pixel art
+- Controles de teclado (Setas + Z X C)
+- Barra de vida e energia neon roxa
+- Animações frame por frame
+- Design completo em **roxo neon**
+- Telas: Menu, Seleção, Arena e Game Over
+- Totalmente responsivo
 
----
+</div>
 
-## 🛠️ Tecnologias Utilizadas
+<br>
 
-- **HTML5 Canvas** (recomendado para jogos)
-- **CSS3** — Gradientes roxos, animações, glow neon
+<div style="background-color: #4B0082; color: white; padding: 20px; border-radius: 12px;">
+
+## 🛠️ Tecnologias
+
+- **HTML5**
+- **CSS3** (Neon roxo, glow, animações)
 - **JavaScript Vanilla**
-- **Pixel Art Sprites** e assets
-- **Google Fonts** (fontes estilo arcade)
+- Pixel Art Sprites
 
----
+</div>
+
+<br>
+
+<div style="background-color: #2E0854; color: #E0BBFF; padding: 25px; border-radius: 12px; border: 3px solid #BA55D3;">
 
 ## 📁 Estrutura do Projeto
