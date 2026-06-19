@@ -1,81 +1,42 @@
-<div align="center" style="background: linear-gradient(135deg, #4B0082, #8A2BE2, #9400D3); color: white; padding: 40px; border-radius: 15px;">
+# 🔮 kyrenn12
 
-![Banner Pixel Roxo](https://via.placeholder.com/800x200/4B0082/FFFFFF?text=JOGO+DE+LUTA+PIXEL+ART)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6Y28wY3R3b3N0NXhrMnVwYTI4NXBlb3R0M29wYTM4NzN6bW04NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4X66S7sJ811p47v4g/giphy.gif" width="200" alt="Kuromi Wave">
+</p>
 
-# 🎮 **JOGO DE LUTA**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Theme-Purple%20%E2%9A%9B-8A2BE2?style=for-the-badge" alt="Theme Purple">
+</p>
 
-**Projeto Escolar - Pixel Art Fighter**
+---
 
-![Roxo Divider](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+## 💜 Sobre o Projeto
 
-</div>
+Este é um projeto web desenvolvido em **Python** utilizando o framework **Flask**. Ele possui uma estrutura clássica com rotas dinâmicas, estilização personalizada e uma interface totalmente trabalhada na estética roxa, unindo o charme sombrio da **Kuromi** e a magia do universo de **Genshin Impact**.
 
-<br>
+> 🔮 *“Menu personalizado, rotas limpas e um toque estético roxo impecável.”*
 
-<div style="background-color: #2E0854; color: #E0BBFF; padding: 25px; border-radius: 12px; border: 3px solid #BA55D3;">
-
-## ✨ Sobre o Projeto
-
-Um jogo de luta 2D em **pixel art** com visual **roxo neon**, desenvolvido como projeto escolar usando apenas **HTML, CSS e JavaScript**.
-
-Estética retro gamer com tema **totalmente roxo**.
-
-</div>
-
-<br>
-
-<div align="center" style="background-color: #4B0082; color: white; padding: 20px; border-radius: 12px;">
-
-## 🎥 **GIFs do Jogo (Pixel Art)**
-
-### Luta em Ação
-**[INSIRA GIF 1 - COMBATE AQUI]**
-
-### Ataque Especial Roxo
-**[INSIRA GIF 2 - ATAQUE ESPECIAL AQUI]**
-
-### Personagem Pulando / Movimentação
-**[INSIRA GIF 3 - MOVIMENTAÇÃO AQUI]**
-
-### Tela de Menu / Seleção de Personagem
-**[INSIRA GIF 4 - MENU AQUI]**
-
-### Explosão / Efeito Especial
-**[INSIRA GIF 5 - EXPLOSÃO ROXA AQUI]**
-
-</div>
-
-<br>
-
-<div style="background-color: #2E0854; color: #E0BBFF; padding: 25px; border-radius: 12px; border: 3px solid #BA55D3;">
+---
 
 ## 🚀 Funcionalidades
 
-- Combate em tempo real com sprites pixel art
-- Controles de teclado (Setas + Z X C)
-- Barra de vida e energia neon roxa
-- Animações frame por frame
-- Design completo em **roxo neon**
-- Telas: Menu, Seleção, Arena e Game Over
-- Totalmente responsivo
+* 🌐 **Aplicação Web Completa:** Estrutura integrada com Flask.
+* 🎨 **Estética Purple:** Interface visualmente minimalista e fofa.
+* 📂 **Templates Dinâmicos:** Renderização de páginas HTML direto do servidor.
+* ⚡ **Arquivos Estáticos Organizados:** Scripts e estilos centralizados.
 
-</div>
+---
 
-<br>
+## 📁 Estrutura de Arquivos
 
-<div style="background-color: #4B0082; color: white; padding: 20px; border-radius: 12px;">
+A organização do repositório segue o padrão do ecossistema Flask:
 
-## 🛠️ Tecnologias
-
-- **HTML5**
-- **CSS3** (Neon roxo, glow, animações)
-- **JavaScript Vanilla**
-- Pixel Art Sprites
-
-</div>
-
-<br>
-
-<div style="background-color: #2E0854; color: #E0BBFF; padding: 25px; border-radius: 12px; border: 3px solid #BA55D3;">
-
-## 📁 Estrutura do Projeto
+```text
+kyrenn12/
+│
+├── static/          # Arquivos de estilo (CSS), scripts (JS) e imagens
+├── templates/       # Páginas HTML (renderizadas pelo Flask)
+├── app.py           # O coração da aplicação (Código principal em Python)
+└── README.md        # Documentação do projeto (Este arquivo!)
