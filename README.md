@@ -112,12 +112,10 @@ Siga os passos abaixo para executar a aplicação na sua máquina local:
 
 ---
 
-## 🎨 Galeria Visua
 
 <p align="center">
-  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=763782418026978776" height="234" width="236" frameborder="0" scrolling="no" ></iframe>" width="45%" />
+  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=763782418026978776" height="234" width="236" frameborder="0" scrolling="no"
   
-  <img src="https://i.pinimg.com/originals/37/6f/3a/376f3a1c4a5ddf3351cc16dacdf6351b.gif" width="45%" />
 </p>
 
 <p align="center">
