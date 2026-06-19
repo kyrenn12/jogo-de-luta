@@ -3,7 +3,7 @@
 ![](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=28&pause=1000&color=FFFFFF&background=7B2CBF&width=435&lines=Bem-vindo+ao+meu+projeto!;Kyrenn12+-+Flask+App)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6Y28wY3R3b3N0NXhrMnVwYTI4NXBlb3R0M29wYTM4NzN6bW04NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y4X66S7sJ811p47v4g/giphy.gif" width="180" alt="Kuromi">
+  <img src="https://i.pinimg.com/736x/d7/32/a7/d732a72472a0f412a283ba3ee5dc8add.jpg" width="180" alt="Kuromi">
 </p>
 
 <p align="center">
